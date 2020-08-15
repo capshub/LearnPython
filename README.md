@@ -1,2 +1,2 @@
 # LearnPython
-Learn python through 
+Learn python through Jupyter
